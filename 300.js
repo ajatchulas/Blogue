@@ -1,3 +1,4 @@
+<script type="text/javascript">
 	atOptions = {
 		'key' : '29fbca2593108df41c19dff97137f123',
 		'format' : 'iframe',
@@ -6,3 +7,4 @@
 		'params' : {}
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplayformat.com/29fbca2593108df41c19dff97137f123/invoke.js"></scr' + 'ipt>');
+</script>
